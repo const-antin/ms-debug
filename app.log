@@ -1,0 +1,2 @@
+May 02, 2024 1:44:47 PM org.example.LoggingMain openFile
+SEVERE: Error opening file: File does not exist: nonExistantFile.txt
